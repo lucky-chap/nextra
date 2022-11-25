@@ -82,10 +82,10 @@
     "graceful-fs": "^4.2.10",
     "gray-matter": "^4.0.3",
     "rehype-mdx-title": "^1.0.0",
-    "rehype-pretty-code": "0.5.1",
+    "rehype-pretty-code": "0.6.0-beta.0",
     "remark-gfm": "^3.0.1",
     "remark-reading-time": "^2.0.1",
-    "shiki": "0.10.1",
+    "shiki": "0.11.1",
     "slash": "^3.0.0",
     "title": "^3.5.3",
     "unist-util-visit": "^4.1.1"
