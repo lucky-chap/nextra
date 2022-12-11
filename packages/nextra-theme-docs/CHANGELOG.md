@@ -1,5 +1,16 @@
 # nextra-theme-docs
 
+## 2.0.2
+
+### Patch Changes
+
+- 99ec64e: fix indentation for copy code button
+- f488e2e: remove @react/skip-nev #1051
+
+  fix: staticImage should only set blur placeholder for jpeg,png,webp,avif
+
+- b43d775: fix `Navbar />` elements `key` prop
+
 ## 2.0.1
 
 ### Patch Changes
